@@ -39,7 +39,7 @@ import { AuthGuard } from "shared/services/auth-guard.service";
   declarations: [
     ProductFormComponent,
     AdminProductsComponent,
-    AdminOrdersComponent,
+    AdminOrdersComponent
   ]
 })
 export class AdminModule { }
